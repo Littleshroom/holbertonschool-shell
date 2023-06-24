@@ -1,1 +1,4 @@
 #!/bin/bash
+pwd
+echo ruta absoluta del directorio de trabajo actual:
+echo ruta_actual
